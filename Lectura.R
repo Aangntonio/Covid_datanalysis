@@ -47,8 +47,20 @@ View(intubados_def)
 install.packages("lubridate")
 library(lubridate)
 
-##Defunciones de enero 
+##Defunciones por  mes --------------------------------------------- 
 library(dplyr)
 attach(defunciones)
-enero <- subset(defunciones,FECHA_DEF  <= ymd("2023-02-01") )ebreri <- 
-
+enero <- subset(defunciones,FECHA_DEF  <= ymd("2023-01-01"))
+febrero <- subset(defunciones, FECHA_DEF > ymd("2023-01-31") & FECHA_DEF <= ymd("2023-02-01"))
+marzo <- subset(defunciones,FECHA_DEF > ymd("2023-02-28") & FECHA_DEF  <= ymd("2023-03-01"))
+abril <- subset(defunciones,FECHA_DEF > ymd("2023-01-31") & FECHA_DEF  <= ymd("2023-04-01"))
+mayo <- subset(defunciones,FECHA_DEF > ymd("2023-03-30") & FECHA_DEF  <= ymd("2023-05-01"))
+junio <- subset(defunciones,FECHA_DEF  <= ymd("2023-06-01"))
+julio <- subset(defunciones,FECHA_DEF  <= ymd("2023-07-01"))
+agosto <- subset(defunciones,FECHA_DEF  <= ymd("2023-08-01"))
+septiembre<- subset(defunciones,FECHA_DEF  <= ymd("2023-09-01"))
+octubre <- subset(defunciones,FECHA_DEF  <= ymd("2023-10-01"))
+noviembre<- subset(defunciones,FECHA_DEF  <= ymd("2023-11-01"))
+diciembre <- subset(defunciones,FECHA_DEF  <= ymd("2023-12-01"))
+View(febrero)
+######
