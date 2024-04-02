@@ -10,12 +10,12 @@ defunciones <- subset.data.frame(data, data$FECHA_DEF != '9999-99-99')
 intubados <- subset.data.frame(data, data$INTUBADO == 1 )
 #PArticiones
 
-View(intubados)
+View(defunciones)
 summary(intubados$EDAD)
 
 summary(defunciones$EDAD)
 sd(defunciones$EDAD)
-hist(defunciones$EDAD, breaks = 20, col = "skyblue", xlab = "Edades", ylab = "Frecuencia", main = "Defunciones por Covid en 2023 por edades")
+hist(defunciones$EDAD, breaks = 50, col = "skyblue", xlab = "Edades", ylab = "Frecuencia", main = "Defunciones por Covid en 2023 por edades")
 
 hist(intubados$EDAD, breaks = 20, col = "skyblue", xlab = "Edades", ylab = "Frecuencia", main = "Intubados por Covid en 2023 por edades")
 hombres <- subset.data.frame(data, data$SEXO == 2)
@@ -40,3 +40,15 @@ par(mfrow = c(1, 2))
 boxplot(hombres_intubados$EDAD, main = "Hombres intubados", xlab = "Hombres", ylab = "Edad", col = "skyblue")
 boxplot(mujeres_intubados$EDAD, main = "Mujeres intubadas", xlab = "Mujeres", ylab = "Edad", col = "pink")
 par(mfrow = c(1, 1))
+###########Conteos
+intubados_def <- subset.data.frame(intubados, intubados$FECHA_DEF != '9999-99-99')
+View(intubados_def)
+#####Fechas ----------------------
+install.packages("lubridate")
+library(lubridate)
+
+##Defunciones de enero 
+library(dplyr)
+attach(defunciones)
+enero <- subset(defunciones,FECHA_DEF  <= ymd("2023-02-01") )ebreri <- 
+
