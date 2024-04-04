@@ -1,0 +1,316 @@
+"","Condicion_medica","conteo_total"
+"1","ASMA ",5241
+"2","ASMA Cardiovascular ",41
+"3","ASMA Cardiovascular Obesidad ",13
+"4","ASMA Cardiovascular Obesidad Renal_cronica Tabaquismo ",1
+"5","ASMA Cardiovascular Obesidad Tabaquismo ",1
+"6","ASMA Cardiovascular Renal_cronica Tabaquismo ",1
+"7","ASMA Cardiovascular Tabaquismo ",1
+"8","ASMA Hipertension ",384
+"9","ASMA Hipertension Cardiovascular ",16
+"10","ASMA Hipertension Cardiovascular Obesidad ",6
+"11","ASMA Hipertension Cardiovascular Obesidad Renal_cronica Tabaquismo ",1
+"12","ASMA Hipertension Cardiovascular Obesidad Tabaquismo ",2
+"13","ASMA Hipertension Cardiovascular Tabaquismo ",1
+"14","ASMA Hipertension Obesidad ",131
+"15","ASMA Hipertension Obesidad Renal_cronica ",5
+"16","ASMA Hipertension Obesidad Tabaquismo ",18
+"17","ASMA Hipertension Renal_cronica ",6
+"18","ASMA Hipertension Tabaquismo ",22
+"19","ASMA Inmunu ",37
+"20","ASMA Inmunu Cardiovascular Tabaquismo ",1
+"21","ASMA Inmunu Hipertension ",3
+"22","ASMA Inmunu Hipertension Cardiovascular Obesidad ",1
+"23","ASMA Inmunu Hipertension Cardiovascular Obesidad Renal_cronica ",1
+"24","ASMA Inmunu Hipertension Cardiovascular Renal_cronica ",1
+"25","ASMA Inmunu Hipertension Obesidad ",4
+"26","ASMA Inmunu Hipertension Obesidad Tabaquismo ",1
+"27","ASMA Inmunu Hipertension Renal_cronica ",1
+"28","ASMA Inmunu Obesidad ",13
+"29","ASMA Inmunu Obesidad Renal_cronica ",1
+"30","ASMA Inmunu Renal_cronica ",1
+"31","ASMA Inmunu Tabaquismo ",1
+"32","ASMA Obesidad ",696
+"33","ASMA Obesidad Renal_cronica Tabaquismo ",1
+"34","ASMA Obesidad Tabaquismo ",65
+"35","ASMA Renal_cronica ",17
+"36","ASMA Renal_cronica Tabaquismo ",1
+"37","ASMA Tabaquismo ",321
+"38","Cardiovascular ",1341
+"39","Cardiovascular Obesidad ",149
+"40","Cardiovascular Obesidad Renal_cronica ",6
+"41","Cardiovascular Obesidad Renal_cronica Tabaquismo ",1
+"42","Cardiovascular Obesidad Tabaquismo ",21
+"43","Cardiovascular Renal_cronica ",26
+"44","Cardiovascular Tabaquismo ",71
+"45","Diabetes ",8217
+"46","Diabetes ASMA ",193
+"47","Diabetes ASMA Cardiovascular ",7
+"48","Diabetes ASMA Cardiovascular Obesidad ",5
+"49","Diabetes ASMA Cardiovascular Renal_cronica ",1
+"50","Diabetes ASMA Hipertension ",154
+"51","Diabetes ASMA Hipertension Cardiovascular ",17
+"52","Diabetes ASMA Hipertension Cardiovascular Obesidad ",11
+"53","Diabetes ASMA Hipertension Cardiovascular Obesidad Renal_cronica ",4
+"54","Diabetes ASMA Hipertension Cardiovascular Obesidad Renal_cronica Tabaquismo ",1
+"55","Diabetes ASMA Hipertension Cardiovascular Obesidad Tabaquismo ",2
+"56","Diabetes ASMA Hipertension Cardiovascular Renal_cronica ",1
+"57","Diabetes ASMA Hipertension Cardiovascular Renal_cronica Tabaquismo ",1
+"58","Diabetes ASMA Hipertension Obesidad ",83
+"59","Diabetes ASMA Hipertension Obesidad Renal_cronica ",2
+"60","Diabetes ASMA Hipertension Obesidad Renal_cronica Tabaquismo ",2
+"61","Diabetes ASMA Hipertension Obesidad Tabaquismo ",6
+"62","Diabetes ASMA Hipertension Renal_cronica ",8
+"63","Diabetes ASMA Hipertension Tabaquismo ",7
+"64","Diabetes ASMA Inmunu ",7
+"65","Diabetes ASMA Inmunu Cardiovascular ",2
+"66","Diabetes ASMA Inmunu Hipertension ",4
+"67","Diabetes ASMA Inmunu Hipertension Cardiovascular Obesidad ",1
+"68","Diabetes ASMA Inmunu Hipertension Cardiovascular Obesidad Renal_cronica Tabaquismo ",1
+"69","Diabetes ASMA Inmunu Hipertension Cardiovascular Obesidad Tabaquismo ",1
+"70","Diabetes ASMA Inmunu Hipertension Obesidad ",3
+"71","Diabetes ASMA Inmunu Obesidad ",1
+"72","Diabetes ASMA Inmunu Tabaquismo ",1
+"73","Diabetes ASMA Obesidad ",68
+"74","Diabetes ASMA Obesidad Renal_cronica ",2
+"75","Diabetes ASMA Obesidad Tabaquismo ",6
+"76","Diabetes ASMA Renal_cronica ",3
+"77","Diabetes ASMA Renal_cronica Tabaquismo ",1
+"78","Diabetes ASMA Tabaquismo ",15
+"79","Diabetes Cardiovascular ",158
+"80","Diabetes Cardiovascular Obesidad ",38
+"81","Diabetes Cardiovascular Obesidad Renal_cronica ",5
+"82","Diabetes Cardiovascular Obesidad Renal_cronica Tabaquismo ",2
+"83","Diabetes Cardiovascular Obesidad Tabaquismo ",6
+"84","Diabetes Cardiovascular Renal_cronica ",17
+"85","Diabetes Cardiovascular Renal_cronica Tabaquismo ",2
+"86","Diabetes Cardiovascular Tabaquismo ",8
+"87","Diabetes EPOC ",183
+"88","Diabetes EPOC ASMA ",16
+"89","Diabetes EPOC ASMA Hipertension ",13
+"90","Diabetes EPOC ASMA Hipertension Cardiovascular ",2
+"91","Diabetes EPOC ASMA Hipertension Cardiovascular Obesidad ",7
+"92","Diabetes EPOC ASMA Hipertension Cardiovascular Obesidad Tabaquismo ",2
+"93","Diabetes EPOC ASMA Hipertension Cardiovascular Tabaquismo ",1
+"94","Diabetes EPOC ASMA Hipertension Obesidad ",10
+"95","Diabetes EPOC ASMA Hipertension Obesidad Tabaquismo ",1
+"96","Diabetes EPOC ASMA Hipertension Renal_cronica ",5
+"97","Diabetes EPOC ASMA Hipertension Tabaquismo ",1
+"98","Diabetes EPOC ASMA Inmunu ",5
+"99","Diabetes EPOC ASMA Inmunu Cardiovascular ",1
+"100","Diabetes EPOC ASMA Inmunu Cardiovascular Obesidad Renal_cronica Tabaquismo ",1
+"101","Diabetes EPOC ASMA Inmunu Cardiovascular Renal_cronica Tabaquismo ",1
+"102","Diabetes EPOC ASMA Inmunu Hipertension ",1
+"103","Diabetes EPOC ASMA Inmunu Hipertension Cardiovascular ",1
+"104","Diabetes EPOC ASMA Inmunu Hipertension Cardiovascular Obesidad Renal_cronica Tabaquismo ",22
+"105","Diabetes EPOC ASMA Inmunu Hipertension Obesidad ",2
+"106","Diabetes EPOC ASMA Inmunu Hipertension Obesidad Renal_cronica Tabaquismo ",1
+"107","Diabetes EPOC ASMA Inmunu Hipertension Obesidad Tabaquismo ",1
+"108","Diabetes EPOC ASMA Inmunu Hipertension Tabaquismo ",1
+"109","Diabetes EPOC ASMA Inmunu Renal_cronica ",1
+"110","Diabetes EPOC ASMA Inmunu Tabaquismo ",1
+"111","Diabetes EPOC ASMA Obesidad ",4
+"112","Diabetes EPOC ASMA Obesidad Tabaquismo ",2
+"113","Diabetes EPOC ASMA Tabaquismo ",1
+"114","Diabetes EPOC Cardiovascular ",11
+"115","Diabetes EPOC Cardiovascular Obesidad ",5
+"116","Diabetes EPOC Cardiovascular Obesidad Renal_cronica ",1
+"117","Diabetes EPOC Cardiovascular Obesidad Renal_cronica Tabaquismo ",1
+"118","Diabetes EPOC Cardiovascular Renal_cronica ",1
+"119","Diabetes EPOC Cardiovascular Tabaquismo ",1
+"120","Diabetes EPOC Hipertension ",222
+"121","Diabetes EPOC Hipertension Cardiovascular ",30
+"122","Diabetes EPOC Hipertension Cardiovascular Obesidad ",26
+"123","Diabetes EPOC Hipertension Cardiovascular Obesidad Renal_cronica ",7
+"124","Diabetes EPOC Hipertension Cardiovascular Obesidad Renal_cronica Tabaquismo ",3
+"125","Diabetes EPOC Hipertension Cardiovascular Obesidad Tabaquismo ",5
+"126","Diabetes EPOC Hipertension Cardiovascular Renal_cronica ",6
+"127","Diabetes EPOC Hipertension Cardiovascular Renal_cronica Tabaquismo ",3
+"128","Diabetes EPOC Hipertension Cardiovascular Tabaquismo ",10
+"129","Diabetes EPOC Hipertension Obesidad ",93
+"130","Diabetes EPOC Hipertension Obesidad Renal_cronica ",9
+"131","Diabetes EPOC Hipertension Obesidad Renal_cronica Tabaquismo ",1
+"132","Diabetes EPOC Hipertension Obesidad Tabaquismo ",17
+"133","Diabetes EPOC Hipertension Renal_cronica ",19
+"134","Diabetes EPOC Hipertension Renal_cronica Tabaquismo ",10
+"135","Diabetes EPOC Hipertension Tabaquismo ",35
+"136","Diabetes EPOC Inmunu ",8
+"137","Diabetes EPOC Inmunu Cardiovascular ",2
+"138","Diabetes EPOC Inmunu Cardiovascular Renal_cronica Tabaquismo ",1
+"139","Diabetes EPOC Inmunu Hipertension ",7
+"140","Diabetes EPOC Inmunu Hipertension Cardiovascular Renal_cronica ",1
+"141","Diabetes EPOC Inmunu Hipertension Obesidad ",2
+"142","Diabetes EPOC Inmunu Hipertension Obesidad Renal_cronica ",1
+"143","Diabetes EPOC Inmunu Hipertension Obesidad Renal_cronica Tabaquismo ",1
+"144","Diabetes EPOC Inmunu Hipertension Tabaquismo ",1
+"145","Diabetes EPOC Inmunu Obesidad ",2
+"146","Diabetes EPOC Inmunu Obesidad Renal_cronica ",1
+"147","Diabetes EPOC Inmunu Obesidad Tabaquismo ",2
+"148","Diabetes EPOC Inmunu Tabaquismo ",4
+"149","Diabetes EPOC Obesidad ",32
+"150","Diabetes EPOC Obesidad Renal_cronica Tabaquismo ",2
+"151","Diabetes EPOC Obesidad Tabaquismo ",5
+"152","Diabetes EPOC Renal_cronica ",9
+"153","Diabetes EPOC Renal_cronica Tabaquismo ",1
+"154","Diabetes EPOC Tabaquismo ",19
+"155","Diabetes Hipertension ",7048
+"156","Diabetes Hipertension Cardiovascular ",366
+"157","Diabetes Hipertension Cardiovascular Obesidad ",145
+"158","Diabetes Hipertension Cardiovascular Obesidad Renal_cronica ",40
+"159","Diabetes Hipertension Cardiovascular Obesidad Renal_cronica Tabaquismo ",6
+"160","Diabetes Hipertension Cardiovascular Obesidad Tabaquismo ",26
+"161","Diabetes Hipertension Cardiovascular Renal_cronica ",81
+"162","Diabetes Hipertension Cardiovascular Renal_cronica Tabaquismo ",6
+"163","Diabetes Hipertension Cardiovascular Tabaquismo ",30
+"164","Diabetes Hipertension Obesidad ",1617
+"165","Diabetes Hipertension Obesidad Renal_cronica ",85
+"166","Diabetes Hipertension Obesidad Renal_cronica Tabaquismo ",10
+"167","Diabetes Hipertension Obesidad Tabaquismo ",190
+"168","Diabetes Hipertension Renal_cronica ",498
+"169","Diabetes Hipertension Renal_cronica Tabaquismo ",29
+"170","Diabetes Hipertension Tabaquismo ",402
+"171","Diabetes Inmunu ",154
+"172","Diabetes Inmunu Cardiovascular ",14
+"173","Diabetes Inmunu Cardiovascular Obesidad ",1
+"174","Diabetes Inmunu Cardiovascular Obesidad Tabaquismo ",1
+"175","Diabetes Inmunu Cardiovascular Renal_cronica ",1
+"176","Diabetes Inmunu Hipertension ",83
+"177","Diabetes Inmunu Hipertension Cardiovascular ",12
+"178","Diabetes Inmunu Hipertension Cardiovascular Obesidad ",5
+"179","Diabetes Inmunu Hipertension Cardiovascular Obesidad Renal_cronica ",8
+"180","Diabetes Inmunu Hipertension Cardiovascular Obesidad Tabaquismo ",1
+"181","Diabetes Inmunu Hipertension Cardiovascular Renal_cronica ",7
+"182","Diabetes Inmunu Hipertension Cardiovascular Renal_cronica Tabaquismo ",4
+"183","Diabetes Inmunu Hipertension Cardiovascular Tabaquismo ",1
+"184","Diabetes Inmunu Hipertension Obesidad ",42
+"185","Diabetes Inmunu Hipertension Obesidad Renal_cronica ",8
+"186","Diabetes Inmunu Hipertension Obesidad Renal_cronica Tabaquismo ",1
+"187","Diabetes Inmunu Hipertension Obesidad Tabaquismo ",3
+"188","Diabetes Inmunu Hipertension Renal_cronica ",21
+"189","Diabetes Inmunu Hipertension Renal_cronica Tabaquismo ",3
+"190","Diabetes Inmunu Hipertension Tabaquismo ",8
+"191","Diabetes Inmunu Obesidad ",30
+"192","Diabetes Inmunu Obesidad Renal_cronica ",2
+"193","Diabetes Inmunu Obesidad Tabaquismo ",3
+"194","Diabetes Inmunu Renal_cronica ",17
+"195","Diabetes Inmunu Renal_cronica Tabaquismo ",1
+"196","Diabetes Inmunu Tabaquismo ",2
+"197","Diabetes Obesidad ",1248
+"198","Diabetes Obesidad Renal_cronica ",20
+"199","Diabetes Obesidad Renal_cronica Tabaquismo ",4
+"200","Diabetes Obesidad Tabaquismo ",173
+"201","Diabetes Renal_cronica ",133
+"202","Diabetes Renal_cronica Tabaquismo ",7
+"203","Diabetes Tabaquismo ",568
+"204","EPOC ",578
+"205","EPOC ASMA ",59
+"206","EPOC ASMA Cardiovascular ",2
+"207","EPOC ASMA Cardiovascular Renal_cronica ",1
+"208","EPOC ASMA Hipertension ",18
+"209","EPOC ASMA Hipertension Cardiovascular ",3
+"210","EPOC ASMA Hipertension Cardiovascular Obesidad ",3
+"211","EPOC ASMA Hipertension Obesidad ",7
+"212","EPOC ASMA Hipertension Obesidad Tabaquismo ",2
+"213","EPOC ASMA Hipertension Tabaquismo ",1
+"214","EPOC ASMA Inmunu ",1
+"215","EPOC ASMA Inmunu Cardiovascular Obesidad ",1
+"216","EPOC ASMA Inmunu Hipertension ",3
+"217","EPOC ASMA Inmunu Hipertension Cardiovascular Obesidad ",1
+"218","EPOC ASMA Inmunu Tabaquismo ",1
+"219","EPOC ASMA Obesidad ",10
+"220","EPOC ASMA Obesidad Tabaquismo ",1
+"221","EPOC ASMA Tabaquismo ",8
+"222","EPOC Cardiovascular ",44
+"223","EPOC Cardiovascular Obesidad ",3
+"224","EPOC Cardiovascular Obesidad Tabaquismo ",4
+"225","EPOC Cardiovascular Renal_cronica ",4
+"226","EPOC Cardiovascular Renal_cronica Tabaquismo ",1
+"227","EPOC Cardiovascular Tabaquismo ",8
+"228","EPOC Hipertension ",304
+"229","EPOC Hipertension Cardiovascular ",50
+"230","EPOC Hipertension Cardiovascular Obesidad ",15
+"231","EPOC Hipertension Cardiovascular Obesidad Renal_cronica ",1
+"232","EPOC Hipertension Cardiovascular Obesidad Tabaquismo ",7
+"233","EPOC Hipertension Cardiovascular Renal_cronica ",9
+"234","EPOC Hipertension Cardiovascular Renal_cronica Tabaquismo ",2
+"235","EPOC Hipertension Cardiovascular Tabaquismo ",9
+"236","EPOC Hipertension Obesidad ",87
+"237","EPOC Hipertension Obesidad Renal_cronica ",5
+"238","EPOC Hipertension Obesidad Renal_cronica Tabaquismo ",1
+"239","EPOC Hipertension Obesidad Tabaquismo ",19
+"240","EPOC Hipertension Renal_cronica ",17
+"241","EPOC Hipertension Renal_cronica Tabaquismo ",2
+"242","EPOC Hipertension Tabaquismo ",48
+"243","EPOC Inmunu ",19
+"244","EPOC Inmunu Cardiovascular ",1
+"245","EPOC Inmunu Cardiovascular Obesidad ",1
+"246","EPOC Inmunu Hipertension ",10
+"247","EPOC Inmunu Hipertension Cardiovascular ",5
+"248","EPOC Inmunu Hipertension Cardiovascular Obesidad ",1
+"249","EPOC Inmunu Hipertension Cardiovascular Obesidad Renal_cronica ",1
+"250","EPOC Inmunu Hipertension Cardiovascular Tabaquismo ",1
+"251","EPOC Inmunu Hipertension Obesidad Renal_cronica ",1
+"252","EPOC Inmunu Hipertension Obesidad Tabaquismo ",1
+"253","EPOC Inmunu Hipertension Tabaquismo ",3
+"254","EPOC Inmunu Obesidad ",4
+"255","EPOC Inmunu Obesidad Renal_cronica ",2
+"256","EPOC Inmunu Obesidad Tabaquismo ",2
+"257","EPOC Inmunu Renal_cronica ",3
+"258","EPOC Inmunu Tabaquismo ",3
+"259","EPOC Obesidad ",76
+"260","EPOC Obesidad Renal_cronica ",2
+"261","EPOC Obesidad Tabaquismo ",16
+"262","EPOC Renal_cronica ",13
+"263","EPOC Tabaquismo ",92
+"264","Hipertension ",13525
+"265","Hipertension Cardiovascular ",587
+"266","Hipertension Cardiovascular Obesidad ",147
+"267","Hipertension Cardiovascular Obesidad Renal_cronica ",9
+"268","Hipertension Cardiovascular Obesidad Renal_cronica Tabaquismo ",3
+"269","Hipertension Cardiovascular Obesidad Tabaquismo ",22
+"270","Hipertension Cardiovascular Renal_cronica ",45
+"271","Hipertension Cardiovascular Renal_cronica Tabaquismo ",7
+"272","Hipertension Cardiovascular Tabaquismo ",44
+"273","Hipertension Obesidad ",2637
+"274","Hipertension Obesidad Renal_cronica ",41
+"275","Hipertension Obesidad Renal_cronica Tabaquismo ",9
+"276","Hipertension Obesidad Tabaquismo ",281
+"277","Hipertension Renal_cronica ",351
+"278","Hipertension Renal_cronica Tabaquismo ",15
+"279","Hipertension Tabaquismo ",814
+"280","Inmunu ",1476
+"281","Inmunu Cardiovascular ",40
+"282","Inmunu Cardiovascular Obesidad ",6
+"283","Inmunu Cardiovascular Obesidad Renal_cronica ",2
+"284","Inmunu Cardiovascular Obesidad Tabaquismo ",1
+"285","Inmunu Cardiovascular Renal_cronica ",2
+"286","Inmunu Cardiovascular Tabaquismo ",1
+"287","Inmunu Hipertension ",159
+"288","Inmunu Hipertension Cardiovascular ",22
+"289","Inmunu Hipertension Cardiovascular Obesidad ",4
+"290","Inmunu Hipertension Cardiovascular Obesidad Renal_cronica ",1
+"291","Inmunu Hipertension Cardiovascular Obesidad Renal_cronica Tabaquismo ",1
+"292","Inmunu Hipertension Cardiovascular Renal_cronica ",8
+"293","Inmunu Hipertension Cardiovascular Renal_cronica Tabaquismo ",1
+"294","Inmunu Hipertension Cardiovascular Tabaquismo ",2
+"295","Inmunu Hipertension Obesidad ",39
+"296","Inmunu Hipertension Obesidad Renal_cronica ",1
+"297","Inmunu Hipertension Obesidad Renal_cronica Tabaquismo ",1
+"298","Inmunu Hipertension Obesidad Tabaquismo ",8
+"299","Inmunu Hipertension Renal_cronica ",34
+"300","Inmunu Hipertension Renal_cronica Tabaquismo ",1
+"301","Inmunu Hipertension Tabaquismo ",10
+"302","Inmunu Obesidad ",92
+"303","Inmunu Obesidad Renal_cronica ",4
+"304","Inmunu Obesidad Tabaquismo ",8
+"305","Inmunu Renal_cronica ",46
+"306","Inmunu Renal_cronica Tabaquismo ",1
+"307","Inmunu Tabaquismo ",74
+"308","Obesidad ",11257
+"309","Obesidad Renal_cronica ",42
+"310","Obesidad Renal_cronica Tabaquismo ",12
+"311","Obesidad Tabaquismo ",2026
+"312","Renal_cronica ",489
+"313","Renal_cronica Tabaquismo ",37
+"314","Sano",231492
+"315","Tabaquismo ",11256

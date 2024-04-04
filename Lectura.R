@@ -63,4 +63,56 @@ octubre <- subset(defunciones,FECHA_DEF  <= ymd("2023-10-01"))
 noviembre<- subset(defunciones,FECHA_DEF  <= ymd("2023-11-01"))
 diciembre <- subset(defunciones,FECHA_DEF  <= ymd("2023-12-01"))
 View(febrero)
-######
+######MOrbilidades
+# Crear la variable nominal combinada
+# data$Condicion_medica <- ifelse(data$OBESIDAD == 1, "Obesidad",
+#                                 ifelse(data$TABAQUISMO == 1, "Tabaquismo",
+#                                        ifelse(data$CARDIOVASCULAR == 1, "Cardiovasculares",
+#                                               ifelse(data$EPOC == 1, "EPOC",
+#                                                      ifelse(data$ASMA == 1, "Asma",
+#                                                             ifelse(data$HIPERTENSION == 1, "Hipertensión",
+#                                                                    ifelse(data$RENAL_CRONICA == 1, "Enfermedad Renal Crónica",
+#                                                                           ifelse(data$INMUSUPR == 1, "Inmunosupresión", "Ninguna"))))))))
+
+#
+
+data$Diabetico <- ifelse(data$DIABETES == 1, 'Diabetes ', 0 )
+data$Epoc <- ifelse(data$EPOC == 1, 'EPOC ', 0 )
+data$Asma <- ifelse(data$ASMA == 1, 'ASMA ', 0 )
+data$Inmu <- ifelse(data$INMUSUPR == 1, 'Inmunu ', 0 )
+data$Hipertenso <- ifelse(data$HIPERTENSION == 1, 'Hipertension ', 0 )
+data$Cardio <- ifelse(data$CARDIOVASCULAR == 1, 'Cardiovascular ', 0 )
+data$obesidad <- ifelse(data$OBESIDAD == 1, 'Obesidad ', 0 )
+data$Renal <- ifelse(data$RENAL_CRONICA == 1, 'Renal_cronica ', 0 )
+data$Tabaquismo <- ifelse(data$TABAQUISMO == 1, 'Tabaquismo ', 0 )
+
+
+
+
+data$greed <- paste(data$Diabetico, data$Epoc, data$Asma, data$Inmu, data$Hipertenso, data$Cardio, data$obesidad, data$Renal, data$Tabaquismo, sep = "")
+data$greed <- gsub("0", "", data$greed )
+# data$greed < - unique(c(data$DIABETES,data$EPOC,data$ASMA,data$INMUSUPR,data$HIPERTENSION,data$CARDIOVASCULAR,data$OBESIDAD,data$RENAL_CRONICA,data$TABAQUISMO))
+datos <- data.frame(
+  id = data$ID_REGISTRO,
+  In = data$INTUBADO,
+  edad = data$EDAD,
+  def = data$FECHA_DEF,
+  Resultado = data$RESULTADO_ANTIGENO,
+  Condicion_medica = data$greed
+  
+  
+)
+datos$Condicion_medica <- ifelse(datos$Condicion_medica == "", "Sano", datos$Condicion_medica)
+library(dplyr)
+attach(datos)
+table(Condicion_medica)
+group_by(datos,Condicion_medica) %>%
+  summarise(
+    conteo = n()
+    
+  )
+morbilidades <- datos %>%
+  group_by(Condicion_medica) %>%
+  summarise(conteo_total = n())
+
+print(morbilidades$Condicion_medica)
